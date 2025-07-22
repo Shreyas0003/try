@@ -1,3 +1,3 @@
 # FIRST TRIAL
-This is my first code
+This is my first code /n
 Author - shreyas
